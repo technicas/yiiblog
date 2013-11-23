@@ -1,6 +1,5 @@
 <?php
 
-
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../../../../../../Users/pyxyzn/yii-1.1.14/framework/yii.php';
 $config=dirname(__FILE__).'/protected/config/main.php';
